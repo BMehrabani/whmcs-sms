@@ -34,6 +34,7 @@ Supported SMS Gateways
     1sms.com.tr (Türkiye)
     smsGateway.me (Global -> use your own android device to send SMS via API call)
     SendSms.ro (Romania, Global)
+    Infobip (see evmaksms)
 
 Supported Hooks
 
